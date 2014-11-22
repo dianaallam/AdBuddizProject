@@ -1,0 +1,4 @@
+AdBuddizProject
+===============
+
+String Analysis project
